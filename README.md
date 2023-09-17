@@ -13,7 +13,7 @@ testing 5G Core Network and studying 5G System.
 
 UERANSIM introduces the world's first and only open source 5G-SA UE and gNodeB implementation.
 
-**WARNING:** I'm no longer active in the development of UERANSIM. However community contributions are welcomed.
+**WARNING:** Main repository of UERANSIM is no longer active in the development of UERANSIM. This is a personal contributions in attempt to implement Data Transmission over Control Plane for IoT.
 
 ## Current Status
 
@@ -27,6 +27,8 @@ On the other hand, UERANSIM does not fully provide physical layer. 5G-NR radio i
 <img src="https://img.shields.io/badge/Control%20Plane-functional-green" alt="OS Linux"/>  
 <img src="https://img.shields.io/badge/User%20Plane-functional-green" alt="OS Linux"/>
 </p>
+
+**WARNING:** If run with Open5GS, ue must be run in different machine from core network. Using VM is advised.
 
 ## Documentation
 

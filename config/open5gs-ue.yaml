@@ -28,7 +28,8 @@ imeiSv: '4370816125816151'
 
 # List of gNB IP addresses for Radio Link Simulation
 gnbSearchList:
-  - 127.0.0.1
+  # - 127.0.0.1
+  - 192.168.56.1 # Virtual box host-only adapter
 
 # UAC Access Identities Configuration
 uacAic:
